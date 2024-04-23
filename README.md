@@ -1,2 +1,2 @@
 # Display-terms
-有时间或许会做个公开项目~
+Maybe create a new project oneday~
